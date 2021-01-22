@@ -87,7 +87,7 @@ team:
     people:
       - name: "Alix Romero"
         role: "Profesora"
-        image: assets/img/team/1.jpg
+        image: assets/img/team/1.jpeg
         social:
           # - url: https://twitter.com
           #   icon: fab fa-twitter
@@ -97,7 +97,7 @@ team:
             icon: fab fa-linkedin-in
       - name: "Mario Perilla"
         role: "Profesor"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/2.jpeg
         social:
           # - url: https://twitter.com
           #   icon: fab fa-twitter
@@ -107,7 +107,7 @@ team:
             icon: fab fa-linkedin-in
       - name: "Lily Quinto"
         role: "Profesora"
-        image: assets/img/team/3.jpg
+        image: assets/img/team/3.jpeg
         social:
           # - url: https://twitter.com
           #   icon: fab fa-twitter
