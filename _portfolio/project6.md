@@ -1,8 +1,8 @@
 ---
-title: Project Name
+title: Composición
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/06-full.jpg
-alt: 
+alt:
 
 caption:
   title: Window
@@ -15,4 +15,3 @@ Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur 
 - Date: October 2019
 - Client: Window
 - Category: Photography
-

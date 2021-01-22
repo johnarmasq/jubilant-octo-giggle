@@ -1,8 +1,8 @@
 ---
-title: Project Name
+title: Flauta dulce
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/05-full.jpg
-alt: 
+alt:
 
 caption:
   title: Southwest
@@ -15,4 +15,3 @@ Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur 
 - Date: October 2019
 - Client: Southwest
 - Category: Website Design
-
