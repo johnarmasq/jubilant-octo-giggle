@@ -22,7 +22,7 @@ description: "Clases de música online"
 author     : Jonathan Armas-Eliana Cudriz
 logo:     #optional, defaults to site title
   path: assets\img\logo.png
-  height: 30 #height in px, defaults to 52px
+  height: 25 #height in px, defaults to 52px
 
 permalink: /:categories/:title/
 
