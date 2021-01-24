@@ -93,7 +93,7 @@ team:
           #   icon: fab fa-twitter
           # - url: https://facebook.com
           #   icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/alix-romero/
             icon: fab fa-linkedin-in
       - name: "Mario Perilla"
         role: "Profesor"
