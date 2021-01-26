@@ -6,22 +6,22 @@ header:
 
 services:
     title: "Servicios"
-    text: "Lorem ipsum"
+    text: ""
     section: services
     list:
       - title: "Clases personalizadas"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Tu profesor te guiará de forma personalizada para que aprendas a interpretar tu instrumento preferido, creciendo a  tu propio  rítmo y logrando tus metas."
         icon: fas fa-chalkboard-teacher #find more at https://fontawesome.com/icons
       - title: "Asesorías y nivelaciones"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Apoyo para nivelaciones  y dificultades con el aprendizaje musical en la escuela. Formación musical para presentar tu examen de ingreso al pregrado."
         icon: fas fa-graduation-cap
-      # - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-      #   desc: "Your description here, full **Markdown** support"
-      #   icon: fab fa-markdown
+      - title: "Aprende desde tu casa"
+        desc: "Conéctate y aprende desde la comodidad de tu casa en un horario conveniente, sin desplazarse ni recibir personal en tu hogar."
+        icon: fas fa-house-user
 
 portfolio:
     title: "Clases"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Escoge la clase de tu interés y contáctanos  para apartar tu horario y comenzar a aprender y disfrutar la música."
     section: portfolio
 
 
@@ -81,8 +81,8 @@ portfolio:
 
 team:
     title: "NUESTRO EQUIPO"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "Un personal capacitado y calificado para hacerte crecer musicalmente."
+    subtext: ""
     section: team
     people:
       - name: "Alix Romero"
@@ -111,19 +111,19 @@ team:
         social:
           # - url: https://twitter.com
           #   icon: fab fa-twitter
-          # - url: https://facebook.com
-          #   icon: fab fa-facebook-f
+          - url: https://www.instagram.com/lquintocasalins/
+            icon: "fab fa-instagram"
           - url: https://www.linkedin.com/in/lily-quinto
             icon: fab fa-linkedin-in
       - name: "Eliana Cudriz"
         role: "Dpto. Financiero"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/eli.jpg
         social:
           # - url: https://twitter.com
           #   icon: fab fa-twitter
-          # - url: https://facebook.com
-          #   icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://www.instagram.com/elianacudriz/
+            icon: "fab fa-instagram"
+          - url: https://www.linkedin.com/in/eliana-cudriz-53b82210b/
             icon: fab fa-linkedin-in
       # - name: "Jonathan Armas"
       #   role: "Dpto. de Tecnología"
@@ -146,14 +146,16 @@ footer:
     social:
       # - url: https://twitter.com
       #   icon: "fab fa-twitter"
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
+      # - url: https://facebook.com
+      #   icon: "fab fa-facebook-f"
+      - url: https://www.linkedin.com/company/sonorum
         icon: "fab fa-linkedin-in"
       # - url: https://github.com/raviriley/agency-jekyll-theme
       #   icon: "fab fa-github"
-      - url: https://instagram.com
+      - url: https://www.instagram.com/sonorumacademy/
         icon: "fab fa-instagram"
+      - url: https://www.tiktok.com/@sonorumacademy
+        icon: "fab fa-tiktok"
 
 
 # {{ site.data.sitetext.ex.ex | markdownify | default: example }}

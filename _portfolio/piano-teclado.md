@@ -1,21 +1,21 @@
 ---
 caption: #what displays in the portfolio grid:
   title: Piano y teclado
-  subtitle: subtitle
-  thumbnail: https://place-hold.it/400x300
+  subtitle: Cuerdas percutidas
+  thumbnail: assets/img/portfolio/piano-thumb.jpg
 
 #what displays when the item is clicked:
-title: Title
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+title: Piano y teclado
+subtitle: ""
+image: assets/img/portfolio/piano.jpg #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---
-Use this area to describe your project. **Markdown** supported.
+Aprende a leer e interpretar la música que más te gusta en un instrumento de
+teclado  versátil. Además puedes aprender a interpretar tu música aprovechando
+las posibilidades sonoras que te ofrece un teclado electrónico.
 
-optional info list (delete if not using):
-
-{:.list-inline}
+<!-- {:.list-inline}
 - Date:
 - Client:
-- Category:
+- Category: -->

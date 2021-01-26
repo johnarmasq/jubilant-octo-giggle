@@ -1,17 +1,18 @@
 ---
 title: Ukulele
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-full.jpg
+subtitle: ""
+image: assets/img/portfolio/ukulele.jpg
 alt:
 
 caption:
   title: Ukulele
-  subtitle: Identity
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-thumbnail.jpg
+  subtitle: Cuerdas
+  thumbnail: assets/img/portfolio/ukulele-thumb.jpg
+  alt: image alt text
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Interpreta tus canciones preferidas con el instrumento de cuerdas que está de moda en la música actual.
 
-{:.list-inline}
+<!-- {:.list-inline}
 - Date: January 2017
 - Client: Finish
-- Category: Identity
+- Category: Identity -->

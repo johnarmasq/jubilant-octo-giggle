@@ -1,17 +1,18 @@
 ---
 title: Técnica vocal
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
+subtitle: ""
+image: assets/img/portfolio/tecnica-vocal.jpg
 alt: Keep Exploring
 
 caption:
   title: Técnica vocal
-  subtitle: Graphic Design
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
+  subtitle: Something
+  thumbnail: assets/img/portfolio/tecnica-vocal.jpg
+  alt: image alt text
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Aprende el manejo correcto de la voz para que desarrolles tu talento al cantar.
 
-{:.list-inline}
+<!-- {:.list-inline}
 - Date: January 2017
 - Client: Explore
-- Category: Graphic Design
+- Category: Graphic Design -->

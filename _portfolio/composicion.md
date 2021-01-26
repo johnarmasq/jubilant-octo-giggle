@@ -1,17 +1,18 @@
 ---
 title: Composición
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/06-full.jpg
+subtitle: ""
+image: assets/img/portfolio/composicion.jpg
 alt:
 
 caption:
   title: Composición
-  subtitle: Photography
-  thumbnail: assets/img/portfolio/06-thumbnail.jpg
+  subtitle: "Something"
+  thumbnail: assets/img/portfolio/composicion-thumb.jpg
+  alt: image alt text
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Si deseas crear música y componer tus propias canciones, aquí puedes aprender a hacerlo.
 
-{:.list-inline}
+<!-- {:.list-inline}
 - Date: October 2019
 - Client: Window
-- Category: Photography
+- Category: Photography -->

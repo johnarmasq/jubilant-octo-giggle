@@ -1,17 +1,18 @@
 ---
-title: Guitarra y piano funcional
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/04-full.jpg
+title: Piano funcional
+subtitle: ""
+image: assets/img/portfolio/piano-funcional.jpg
 alt:
 
 caption:
-  title: Guitarra y piano funcional
-  subtitle: Branding
-  thumbnail: assets/img/portfolio/04-thumbnail.jpg
+  title: Piano funcional
+  subtitle: Cuerdas percutidas
+  thumbnail: assets/img/portfolio/piano-funcional-thumb.jpg
+  alt: image alt text
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Acompaña en el piano tus canciones  o a tus amigos con los ritmos musicales que más te gustan.
 
-{:.list-inline}
+<!-- {:.list-inline}
 - Date: October 2019
 - Client: Lines
-- Category: Branding
+- Category: Branding -->

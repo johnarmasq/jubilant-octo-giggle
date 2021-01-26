@@ -1,17 +1,18 @@
 ---
 title: Guitarra acústica
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
+subtitle: ""
+image: assets/img/portfolio/guitarra.jpg
 alt: Shirts on a hanger
 
 caption:
   title: Guitarra acústica
-  subtitle: Illustration
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+  subtitle: Cuerdas
+  thumbnail: assets/img/portfolio/guitarra-thumb.jpg
+  alt: image alt text
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+Ejecuta tu música y acompaña tus canciones preferidas con un instrumento  de cuerdas que puedes llevar a todas partes.
 
-{:.list-inline}
+<!-- {:.list-inline}
 - Date: January 2017
 - Client: Threads
-- Category: Illustration
+- Category: Illustration -->
