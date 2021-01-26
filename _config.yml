@@ -25,7 +25,7 @@ logo:     #optional, defaults to site title
   height: 25 #height in px, defaults to 52px
 whatsapp: https://api.whatsapp.com/send/?phone=573053491660&text=¡Hola!+Estoy+interesado+en+las+clases+de+música.
 
-permalink: /:categories/:title/
+permalink: /:title/
 
 analytics:
   google: #Google Analytics tracking code here
@@ -34,6 +34,11 @@ collections:
   portfolio:
 
 markdown: kramdown
+
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Uncomment following line to use Formspree form ID based URL instead of email based URL
 # Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
