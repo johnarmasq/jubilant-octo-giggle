@@ -5,7 +5,7 @@ image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/
 alt:
 
 caption:
-  title: Lines
+  title: Guitarra y piano funcional
   subtitle: Branding
   thumbnail: assets/img/portfolio/04-thumbnail.jpg
 ---
