@@ -17,9 +17,9 @@
                 <p class="item-intro text-muted">{{ project.subtitle }}</p>
                 <img class="img-fluid d-block mx-auto" src="{{ project.image }}" alt="{{ project.alt }}">
 				<p>{{ project.content }}</p>
-                <button class="btn btn-primary" data-dismiss="modal" type="button">
-                  <i class="fas fa-times"></i>
-                  {{ site.data.sitetext.portfolio.closebutton | default: "Cerrar" }}</button>
+            <a href="{{ site.whatsapp }}{{project.title}}" target="_blank" rel="noopener noreferrer" class="btn btn-primary"  type="button">
+              <i class="fab fa-whatsapp"></i>
+              {{ site.data.sitetext.portfolio.closebutton | default: "¡Quiero aprender!" }}</a>
               </div>
             </div>
           </div>
