@@ -11,10 +11,10 @@ services:
     list:
       - title: "Clases personalizadas"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas chalkboard-teacher #find more at https://fontawesome.com/icons
+        icon: fas fa-chalkboard-teacher #find more at https://fontawesome.com/icons
       - title: "Asesorías y nivelaciones"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas graduation-cap
+        icon: fas fa-graduation-cap
       # - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
       #   desc: "Your description here, full **Markdown** support"
       #   icon: fab fa-markdown
@@ -113,7 +113,7 @@ team:
           #   icon: fab fa-twitter
           # - url: https://facebook.com
           #   icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/lily-quinto
             icon: fab fa-linkedin-in
       - name: "Eliana Cudriz"
         role: "Dpto. Financiero"
@@ -133,7 +133,7 @@ team:
           #   icon: fab fa-twitter
           # - url: https://facebook.com
           #   icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: www.linkedin.com/in/jonathan-armas
             icon: fab fa-linkedin-in
 
 contact:
