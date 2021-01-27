@@ -1,27 +1,27 @@
 header:
-    title: Bienvenidos a la academia
-    text: ¡Es un placer contar con ustedes!
-    button: Dime más
+    title: ""
+    text: ¿Quieres aprender a cantar o a tocar un instrumento?
+    button: Estudia aquí
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
 services:
     title: "Servicios"
-    text: ""
+    text: "Aprende de los mejores"
     section: services
     list:
       - title: "Clases personalizadas"
-        desc: "Tu profesor te guiará de forma personalizada para que aprendas a interpretar tu instrumento preferido, creciendo a  tu propio  rítmo y logrando tus metas."
+        desc: "Contamos con profesores con más de 25 años de experiencia que te dictarán las clases **en vivo** solamente a ti, te guiarán y te ayudarán a tener conocimientos teórico-musicales que te permitirán interpretar tu instrumento preferido, creciendo a tu propio ritmo y logrando tus metas."
         icon: fas fa-chalkboard-teacher #find more at https://fontawesome.com/icons
       - title: "Asesorías y nivelaciones"
         desc: "Apoyo para nivelaciones  y dificultades con el aprendizaje musical en la escuela. Formación musical para presentar tu examen de ingreso al pregrado."
         icon: fas fa-graduation-cap
       - title: "Aprende desde tu casa"
-        desc: "Conéctate y aprende desde la comodidad de tu casa en un horario conveniente, sin desplazarse ni recibir personal en tu hogar."
+        desc: "Conéctate y aprende tu instrumento **desde la comodidad de tu casa** en un horario conveniente y sin desplazamientos."
         icon: fas fa-house-user
 
 portfolio:
     title: "Clases"
-    text: "Escoge la clase de tu interés y contáctanos  para apartar tu horario y comenzar a aprender y disfrutar la música."
+    text: "Escoge la clase de tu interés y contáctanos para apartar tu horario y comenzar a aprender y disfrutar la música."
     section: portfolio
 
 
@@ -88,6 +88,7 @@ team:
       - name: "Alix Romero"
         role: "Profesora"
         image: assets/img/team/1.jpeg
+        alt: Profesora Alix Romero foto de perfil
         social:
           # - url: https://twitter.com
           #   icon: fab fa-twitter
@@ -98,6 +99,7 @@ team:
       - name: "Mario Perilla"
         role: "Profesor"
         image: assets/img/team/2.jpeg
+        alt: Profesor Mario Perilla foto de perfil
         social:
           # - url: https://twitter.com
           #   icon: fab fa-twitter
@@ -108,6 +110,7 @@ team:
       - name: "Lily Quinto"
         role: "Profesora"
         image: assets/img/team/3.jpeg
+        alt: Profesora Lily Quinto foto de perfil
         social:
           # - url: https://twitter.com
           #   icon: fab fa-twitter
@@ -118,6 +121,7 @@ team:
       - name: "Eliana Cudriz"
         role: "Dpto. Financiero"
         image: assets/img/team/eli.jpg
+        alt: Contadora Eliana Cudriz foto de perfil
         social:
           # - url: https://twitter.com
           #   icon: fab fa-twitter
@@ -146,8 +150,8 @@ footer:
     social:
       # - url: https://twitter.com
       #   icon: "fab fa-twitter"
-      # - url: https://facebook.com
-      #   icon: "fab fa-facebook-f"
+      - url: https://www.facebook.com/Sonorum-101048412015321
+        icon: "fab fa-facebook-f"
       - url: https://www.linkedin.com/company/sonorum
         icon: "fab fa-linkedin-in"
       # - url: https://github.com/raviriley/agency-jekyll-theme

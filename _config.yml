@@ -23,6 +23,7 @@ author     : Jonathan Armas-Eliana Cudriz
 logo:     #optional, defaults to site title
   path: assets\img\logo.png
   height: 25 #height in px, defaults to 52px
+  alt: Logo Sonorum Academy
 whatsapp: https://api.whatsapp.com/send/?phone=573053491660&text=¡Hola!+Estoy+interesado+en+las+clases+de+
 
 permalink: /:title/

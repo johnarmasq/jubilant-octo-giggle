@@ -2,13 +2,13 @@
 title: Dirección
 subtitle: ""
 image: assets/img/portfolio/direccion.jpg
-alt: Music director. Photo by Kazuo ota on https://unsplash.com/photos/ohXrVLI1MLw
+alt: Music director. Photo by Kazuo ota on Unsplash
 
 caption:
   title: Dirección
-  subtitle: Branding
+  subtitle: 
   thumbnail: assets/img/portfolio/direccion-thumb.jpg
-  alt: Music director. Photo by Kazuo ota on https://unsplash.com/photos/ohXrVLI1MLw
+  alt: Music director. Photo by Kazuo ota on Unsplash
 ---
 Capacítate  para dirigir tu conjunto o coro y complementa tu formación musical.
 

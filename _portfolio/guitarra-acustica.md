@@ -2,13 +2,13 @@
 title: Guitarra acústica
 subtitle: ""
 image: assets/img/portfolio/guitarra.jpg
-alt: Guitar player. Photo by Jacek Dylag on https://unsplash.com/photos/hUHzaiAHuUc
+alt: Guitar player. Photo by Jacek Dylag on Unsplash
 
 caption:
   title: Guitarra acústica
-  subtitle: Cuerdas
+  subtitle: 
   thumbnail: assets/img/portfolio/guitarra-thumb.jpg
-  alt: Guitar player. Photo by Jacek Dylag on https://unsplash.com/photos/hUHzaiAHuUc
+  alt: Guitar player. Photo by Jacek Dylag on Unsplash
 ---
 Ejecuta tu música y acompaña tus canciones preferidas con un instrumento  de cuerdas que puedes llevar a todas partes.
 

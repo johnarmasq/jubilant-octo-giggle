@@ -2,13 +2,13 @@
 title: Técnica vocal
 subtitle: ""
 image: assets/img/portfolio/tecnica-vocal.jpg
-alt: Man singing .Photo by Vidar Nordli-Mathisen on https://unsplash.com/photos/HyEF6_hXBL0
+alt: Man singing .Photo by Vidar Nordli-Mathisen on Unsplash
 
 caption:
   title: Técnica vocal
-  subtitle: Something
+  subtitle: 
   thumbnail: assets/img/portfolio/tecnica-vocal.jpg
-  alt: Man singing .Photo by Vidar Nordli-Mathisen on https://unsplash.com/photos/HyEF6_hXBL0
+  alt: Man singing .Photo by Vidar Nordli-Mathisen on Unsplash
 ---
 Aprende el manejo correcto de la voz para que desarrolles tu talento al cantar.
 

@@ -37,6 +37,9 @@
       }
     }
   }
+  img.imglogo {
+    filter: invert(43%) sepia(18%) saturate(1563%) hue-rotate(261deg) brightness(90%) contrast(88%);
+  }
 }
 @media(min-width:992px) {
   #mainNav {
@@ -60,6 +63,10 @@
         }
       }
     }
+    img.imglogo {
+      filter: none;
+    }
+
     &.navbar-shrink {
       padding-top: 0;
       padding-bottom: 0;
@@ -68,6 +75,10 @@
         font-size: 1.25em;
         padding: 12px 0;
       }
+      img.imglogo {
+        filter: invert(43%) sepia(18%) saturate(1563%) hue-rotate(261deg) brightness(90%) contrast(88%);
+      }
+
     }
   }
 }

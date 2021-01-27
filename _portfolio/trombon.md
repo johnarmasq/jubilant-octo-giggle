@@ -1,16 +1,18 @@
 ---
-title: Tombón
+title: Trombón
 subtitle: ""
 image: assets/img/portfolio/trombon.jpg
-alt: Street Brass Orchestra. Photo by camilo jimenez on https://unsplash.com/photos/1bY8jXZBRk0
+alt: Street Brass Orchestra. Photo by camilo jimenez on Unsplash
 
 caption:
-  title: Tombón
-  subtitle: Viento metal
+  title: Trombón
+  subtitle:
   thumbnail: assets/img/portfolio/trombon-thumb.jpg
-  alt: Street Brass Orchestra. Photo by camilo jimenez on https://unsplash.com/photos/1bY8jXZBRk0
+  alt: Street Brass Orchestra. Photo by camilo jimenez on Unsplash
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Si te gustan los instrumentos de metal y quieres ser solista o hacer parte
+de alguna agrupación, puedes aprender a tocar el trombón
+que te permitirá disfrutar de hermosas melodías.
 
 <!-- {:.list-inline}
 - Date: October 2019
