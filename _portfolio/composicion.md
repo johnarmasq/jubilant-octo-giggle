@@ -1,19 +1,21 @@
 ---
 title: Composición
-subtitle: ""
 image: assets/img/portfolio/composicion.jpg
 alt: Musician’s desktop. Photo by Dayne Topkin on Unsplash
 
 caption:
   title: Composición
-  subtitle: ""
   thumbnail: assets/img/portfolio/composicion-thumb.jpg
   alt: Musician’s desktop. Photo by Dayne Topkin on Unsplash
 ---
 
-Aprenderás a componer tus propias canciones de una manera única y original.
-En las clases los profesores te enseñarán a juntar tus ideas y colocarlas
-en un orden estratégico para formar las canciones adecuadamente.
+¿Te gustaría componer tus propias canciones y melodías?
+¿Deseas musicalizar un poema de tu autoría con tu género musical favorito?
+La clase de composición te ofrece la oportunidad
+de aprender a crear tus propias melodías y canciones,
+a proponer tus versiones personalizadas de la música
+que más te gusta y desarrollar tu capacidad creadora.
+Aprende con nosotros y disfruta haciendo tu propia música.  
 
 <!-- {:.list-inline}
 - Date: October 2019
